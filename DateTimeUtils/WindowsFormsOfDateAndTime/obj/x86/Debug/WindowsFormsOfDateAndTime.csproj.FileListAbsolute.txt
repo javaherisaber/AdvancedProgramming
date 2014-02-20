@@ -1,0 +1,56 @@
+c:\users\mehdi\documents\visual studio 2010\Projects\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.exe
+c:\users\mehdi\documents\visual studio 2010\Projects\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.pdb
+c:\users\mehdi\documents\visual studio 2010\Projects\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Form1.resources
+c:\users\mehdi\documents\visual studio 2010\Projects\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Properties.Resources.resources
+c:\users\mehdi\documents\visual studio 2010\Projects\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csproj.GenerateResource.Cache
+c:\users\mehdi\documents\visual studio 2010\Projects\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.exe
+c:\users\mehdi\documents\visual studio 2010\Projects\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.pdb
+C:\Users\mehdi\documents\visual studio 2010\Projects\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csprojResolveAssemblyReference.cache
+K:\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.exe
+K:\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.pdb
+C:\Users\mehdi-pc\Desktop\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.exe
+C:\Users\mehdi-pc\Desktop\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.pdb
+C:\Users\mehdi-pc\Desktop\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.exe
+C:\Users\mehdi-pc\Desktop\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.pdb
+C:\Users\mehdi-pc\Desktop\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Form1.resources
+C:\Users\mehdi-pc\Desktop\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Properties.Resources.resources
+C:\Users\mehdi-pc\Desktop\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csproj.GenerateResource.Cache
+C:\Users\mehdi-pc\Desktop\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csprojResolveAssemblyReference.cache
+L:\DOVOOOOO\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.exe
+L:\DOVOOOOO\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.pdb
+L:\DOVOOOOO\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.exe
+L:\DOVOOOOO\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.pdb
+L:\DOVOOOOO\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csprojResolveAssemblyReference.cache
+L:\DOVOOOOO\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Form1.resources
+L:\DOVOOOOO\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Properties.Resources.resources
+L:\DOVOOOOO\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csproj.GenerateResource.Cache
+C:\Users\mehdi\Desktop\Finally\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.exe
+C:\Users\mehdi\Desktop\Finally\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.pdb
+C:\Users\mehdi\Desktop\Finally\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.exe
+C:\Users\mehdi\Desktop\Finally\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.pdb
+C:\Users\mehdi\Desktop\Finally\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\mehdi\Desktop\Finally\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Form1.resources
+C:\Users\mehdi\Desktop\Finally\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Properties.Resources.resources
+C:\Users\mehdi\Desktop\Finally\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csproj.GenerateResource.Cache
+G:\resource\C #\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.exe
+G:\resource\C #\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.pdb
+G:\resource\C #\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Form1.resources
+G:\resource\C #\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Properties.Resources.resources
+G:\resource\C #\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csproj.GenerateResource.Cache
+G:\resource\C #\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.exe
+G:\resource\C #\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.pdb
+G:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.exe
+G:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.pdb
+G:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.exe
+G:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.pdb
+G:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Form1.resources
+G:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Properties.Resources.resources
+G:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csproj.GenerateResource.Cache
+H:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.exe
+H:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.pdb
+H:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.exe
+H:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\bin\Debug\WindowsFormsOfDateAndTime.pdb
+H:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csprojResolveAssemblyReference.cache
+H:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Form1.resources
+H:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.Properties.Resources.resources
+H:\learning\C #\Niknam\applications\برنامه های ویندوزی\WindowsFormsOfDateAndTime\WindowsFormsOfDateAndTime\obj\x86\Debug\WindowsFormsOfDateAndTime.csproj.GenerateResource.Cache
