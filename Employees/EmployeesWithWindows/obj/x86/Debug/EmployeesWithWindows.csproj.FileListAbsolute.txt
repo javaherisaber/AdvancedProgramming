@@ -1,0 +1,95 @@
+C:\Users\mehdi\documents\visual studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.exe
+C:\Users\mehdi\documents\visual studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.pdb
+C:\Users\mehdi\documents\visual studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Form1.resources
+C:\Users\mehdi\documents\visual studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Properties.Resources.resources
+C:\Users\mehdi\documents\visual studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csproj.GenerateResource.Cache
+C:\Users\mehdi\documents\visual studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.exe
+C:\Users\mehdi\documents\visual studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.pdb
+C:\Users\mehdi\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csprojResolveAssemblyReference.cache
+C:\Users\mehdi\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSaati.resources
+C:\Users\mehdi\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSabet.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.exe
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.pdb
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSaati.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSabet.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Form1.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Properties.Resources.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csproj.GenerateResource.Cache
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.exe
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.pdb
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjKarKard.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Search.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SearchResult.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.ListHoghoghPardakhti.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.About.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SaveHelp.resources
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csprojResolveAssemblyReference.cache
+C:\Users\mehdy\Documents\Visual Studio 2010\Projects\EmployeesWithWindows\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.OpenHelp.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.exe
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.pdb
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.exe
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.pdb
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.exe
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.pdb
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csprojResolveAssemblyReference.cache
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.About.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjKarKard.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSaati.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSabet.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Form1.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.ListHoghoghPardakhti.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SaveHelp.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.OpenHelp.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Properties.Resources.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Search.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SearchResult.resources
+C:\Users\mehdy\Desktop\EmployeesAccount\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csproj.GenerateResource.Cache
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.exe
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.pdb
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csprojResolveAssemblyReference.cache
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.About.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjKarKard.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSaati.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSabet.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Form1.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.ListHoghoghPardakhti.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SaveHelp.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.OpenHelp.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Properties.Resources.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Search.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SearchResult.resources
+G:\resource\C #\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csproj.GenerateResource.Cache
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.exe
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.pdb
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.exe
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.pdb
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csprojResolveAssemblyReference.cache
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.About.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjKarKard.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSaati.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSabet.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Form1.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.ListHoghoghPardakhti.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SaveHelp.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.OpenHelp.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Properties.Resources.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Search.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SearchResult.resources
+G:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csproj.GenerateResource.Cache
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.exe
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.pdb
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.exe
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\bin\Debug\EmployeesWithWindows.pdb
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csprojResolveAssemblyReference.cache
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.About.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjKarKard.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSaati.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.DarjSabet.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Form1.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.ListHoghoghPardakhti.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SaveHelp.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.OpenHelp.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Properties.Resources.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.Search.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.SearchResult.resources
+H:\learning\C #\Niknam\applications\پروژه نهایی\بانک اطلاعاتی کارمندان\EmployeesWithWindows\obj\x86\Debug\EmployeesWithWindows.csproj.GenerateResource.Cache

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3233EA99-4057-4942-A0C5-CFD488C8CC74}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EmployeesWithWindows</RootNamespace>
+    <AssemblyName>EmployeesWithWindows</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class\ConstBaseWorkers.cs" />
+    <Compile Include="Forms\DarjKarKard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DarjKarKard.Designer.cs">
+      <DependentUpon>DarjKarKard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DarjSaati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DarjSaati.Designer.cs">
+      <DependentUpon>DarjSaati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DarjSabet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DarjSabet.Designer.cs">
+      <DependentUpon>DarjSabet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class\database.cs" />
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class\HourBaseWorkers.cs" />
+    <Compile Include="Forms\ListHoghoghPardakhti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ListHoghoghPardakhti.Designer.cs">
+      <DependentUpon>ListHoghoghPardakhti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class\Person.cs" />
+    <Compile Include="class\Program.cs" />
+    <Compile Include="Forms\SaveHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SaveHelp.Designer.cs">
+      <DependentUpon>SaveHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OpenHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OpenHelp.Designer.cs">
+      <DependentUpon>OpenHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Search.Designer.cs">
+      <DependentUpon>Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SearchResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SearchResult.Designer.cs">
+      <DependentUpon>SearchResult.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DarjKarKard.resx">
+      <DependentUpon>DarjKarKard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DarjSaati.resx">
+      <DependentUpon>DarjSaati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DarjSabet.resx">
+      <DependentUpon>DarjSabet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ListHoghoghPardakhti.resx">
+      <DependentUpon>ListHoghoghPardakhti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SaveHelp.resx">
+      <DependentUpon>SaveHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OpenHelp.resx">
+      <DependentUpon>OpenHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Search.resx">
+      <DependentUpon>Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SearchResult.resx">
+      <DependentUpon>SearchResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36187.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_0005_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_0007_Tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_0009_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_0030_Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Const add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hour_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_as.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vladstudio_exp005_1024x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prairie Wind.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TextHelp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounds-05.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
